@@ -1,0 +1,69 @@
+.proz_body {
+  background-color: #59378d;
+  height: 100vh;
+  color: white;
+}
+
+header {
+  background-color: lightgray;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+nav {
+  /* background-color: #EF7D19; */
+}
+
+a {
+  text-decoration: none;
+}
+
+nav ul li {
+  padding-left: 16px;
+  list-style-type: none;
+}
+
+ul {
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+
+.proz_main_titles {
+  align-self: flex-start;
+     
+}
+
+.proz_main_title {
+  font-size: 48px;
+}
+.proz_main_subtitle{
+  font-size: 20px;
+}
+.proz_main {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 250px;
+}
+
+.proz_description_services_one, .proz_description_services_two {
+  background: url(img/bg_laranja.jpg);
+  border-radius: 12px;
+  max-width: 300px;
+  height: 200px;
+  padding: 20px;
+}
+
+.proz_description_section {
+  display: flex;
+  gap: 40px;
+  margin-top: 30px;
+}
+.proz_description_services_title {
+  margin-bottom: 16px;
+}
