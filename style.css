@@ -29,13 +29,13 @@ ul {
 
 .proz_main_titles {
   align-self: flex-start;
-  padding-left: 40px;
+  padding-left: 360px;
      
 }
 
 .proz_main_title {
   font-size: 48px;
-}
+  }
 .proz_main_subtitle{
   font-size: 20px;
 }
@@ -45,7 +45,7 @@ ul {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 0 250px;
+  padding: 0 75px;
 }
 
 .proz_description_services_one, .proz_description_services_two {
